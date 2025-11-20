@@ -13,7 +13,7 @@ WooCommerce Payment Gateway для оплати товарів банкывсь�
 **RozetkaPay Payparts Gateway для WooCommerce** — цце платіжний шлюз, який дозволяє вашому магазину WooCommerce приймати оплату банківськими картами та оплату частинами через RozetkaPay.
 
 - **Версія:** 2.0.3
-- **Автор:** RozetkaPay
+- **Автор:** FlyEnergy
 - **Вимагає PHP:** 7.4+
 - **Вимагає WordPress:** 5.0+
 - **Вимагає WooCommerce:** 5.0+
